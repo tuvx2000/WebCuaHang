@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 helloxxxxxxcacas
+=======
+helloxxxx
+cai gi the 
+>>>>>>> main
